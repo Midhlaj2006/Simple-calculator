@@ -9,3 +9,5 @@ The only executable file in this is our python file.told you this is a simple le
 
 And this is truly for one who wants to have an example applocation for python tkinter package.
 Hope you will find it helpful.
+
+It is also avaliable in [![Repl.it account](https://img.shields.io/badge/Repl.it-10171a?style=flat&logo=repl.it&logoColor=white)](https://repl.it/@Midhlaj2006/Simple-calculator#simple_calc.py)
