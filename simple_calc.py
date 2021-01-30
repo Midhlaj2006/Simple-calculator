@@ -19,6 +19,7 @@ def click(n):
     e.insert(0,str(cu)+str(n))
 def delete():
     e.delete(0, END)
+    a.delete(0, END)
 def add():
     cu = str(e.get())
     global num1

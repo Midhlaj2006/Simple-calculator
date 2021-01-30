@@ -1,0 +1,2 @@
+language = "tkinter"
+run = "python 'simple_calc.py'"
